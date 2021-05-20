@@ -1,6 +1,7 @@
 name: SkyBlockUI
 main: ItzLightyHD\SkyBlockUI\Main
 author: ItzLightyHD
+editor: KavinCharlie
 api: [3.0.0]
 depend: ["SkyBlock"]
 version: 1.0.8
